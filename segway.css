@@ -1,0 +1,19 @@
+body{
+     padding: 10px;
+     margin-left: 20%;
+     margin-right: 20%;
+}
+
+tr,td,th,table{
+     border: 1px solid black;
+     border-collapse: collapse;
+     height: 50px;
+     width: 800px;
+     padding: 20px;
+}
+th{
+     background-color: orange;
+}
+.tr{
+     background-color: rgb(233, 172, 59);
+}
